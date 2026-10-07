@@ -1,0 +1,7 @@
+Nama: Muhammad Raihan Surya Pratama
+Mata Kuliah: Sistem Operasi
+Npm : 25081010108
+kelas : A081
+Materi: Multithreading
+Thread digunakan untuk menjalankan beberapa pekerjaan secara bersamaan.
+
